@@ -1,0 +1,19 @@
+/******************************************************************
+
+1- Subprocess, lxml ve srcML import edilmeli.           ++
+2- Subprocess ile srcML kullanılabilmeli.               ++
+3- srcML den alınan çıktının konumu bulunmalı.          ++
+4- lxml kurallarının yazılması.                         ++
+5- lxml ile srcML den gelen çıktıyı okutabilmek.        ++
+
+******************************************************************/
+
+/******************************************************************
+
+# gönderilen kaynak kod adresini argüman olarak alırız.                      ++
+# srcml'e subprocess ile bu kaynak kod gönderilir.                           ++
+# srcml'e gönderilen adresin bir üst klasöründe xml dosyası oluşturulur.     ++
+# oluşan xml dosyalarını okuyacak kurallar yazılır.                          ++
+# bulunan hatalar loglanır.                                                  ++
+
+******************************************************************/
